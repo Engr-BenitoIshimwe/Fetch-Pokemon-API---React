@@ -26,9 +26,7 @@ console.log('sum', sum(2, 3, 4, 5)); // Expects 14
 
 /**************************************************
  
- B E N I T O  S C A N D I W E B  D E V E L O P E R
-       BENITO SCANDIWEB DEVELOPER 
- B E N I T O  S C A N D I W E B  D E V E L O P E R
+
 
 **************************************************/
 
@@ -48,9 +46,6 @@ console.log(
 
 /**************************************************
  
- B E N I T O  S C A N D I W E B  D E V E L O P E R
-       BENITO SCANDIWEB DEVELOPER 
- B E N I T O  S C A N D I W E B  D E V E L O P E R
 
 **************************************************/
 /**
