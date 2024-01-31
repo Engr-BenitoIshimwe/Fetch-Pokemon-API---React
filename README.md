@@ -1,3 +1,3 @@
-# Fetch Pokemon Pictures API | React
+# Fetch Pokemon Images API | React
 
 🌎 Website: https://fetchpokemonreact.netlify.app/
